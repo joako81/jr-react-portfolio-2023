@@ -1,1 +1,1 @@
-# React/Redux/Router Starter Project
+# Portfolio Joaquín Rosa
